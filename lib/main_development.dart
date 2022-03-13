@@ -6,7 +6,8 @@
 // https://opensource.org/licenses/MIT.
 
 import 'package:portfolio/app/app.dart';
-import 'package:portfolio/bootstrap.dart';
+
+import 'bootstrap.dart';
 
 void main() {
   bootstrap(() => const App());
